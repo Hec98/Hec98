@@ -1,5 +1,10 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hec98&show_icons=true&theme=merko))
+### Stats
+![Hec98 GitHub stats](https://github-readme-stats.vercel.app/api?username=Hec98&show_icons=true&theme=merko))
+
+### Most used languages
+![Hec98 Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hec98&theme=merko)
+
 
 [![logoN1-w.png](https://i.postimg.cc/bvwkKP8Y/logoN1-w.png)](https://github.com/Hec98)
 <!--
