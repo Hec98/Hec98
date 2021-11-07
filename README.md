@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hec98&show_icons=true&theme=merko))
+
 [![logoN1-w.png](https://i.postimg.cc/bvwkKP8Y/logoN1-w.png)](https://github.com/Hec98)
 <!--
 **Hec98/Hec98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
