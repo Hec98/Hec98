@@ -1,9 +1,9 @@
 ### Hi there 👋
 ### Stats
-![Hec98 GitHub stats](https://github-readme-stats.vercel.app/api?username=Hec98&show_icons=true&theme=merko))
+[![Hec98 GitHub stats](https://github-readme-stats.vercel.app/api?username=Hec98&show_icons=true&theme=merko))](https://github.com/anuraghazra/github-readme-stats)
 
 ### Most used languages
-![Hec98 Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hec98&theme=merko&layout=compact)
+[![Hec98 Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hec98&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![logoN1-w.png](https://i.postimg.cc/bvwkKP8Y/logoN1-w.png)](https://github.com/Hec98)
