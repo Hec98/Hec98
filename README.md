@@ -1,11 +1,15 @@
-### Hello, my name is Héctor De La Torre Jiménez. 👋
+## Hello, my name is Héctor De La Torre Jiménez. 👋
 
 ____
 
-### I am a developer looking for and implementing solutions.
+#### I am a developer looking for and implementing solutions.
+
+____
+
+***About me:***
 
 ```javascript
-const Hec = {
+const Hec98 = {
   name: {        
     firstName: 'Héctor',      
     lastName: 'De La Torre Jiménez'
@@ -39,3 +43,5 @@ const Hec = {
   }
 }
 ```
+
+____
