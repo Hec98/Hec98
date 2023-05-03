@@ -47,6 +47,9 @@ Mi interés en desarrollarme en las áreas de backend como en frontend y en mane
 
 [![2023-05-02-225326-753x522-scrot.png](https://i.postimg.cc/43KkKGbQ/2023-05-02-225326-753x522-scrot.png)](https://github.com/hecdelatorre/python-deepl-api)
 
+* [Batalla Naval](https://github.com/hecdelatorre/BatallaNaval)
+  [![Screenshot-at-2022-01-25-16-00-24.png](https://i.postimg.cc/mkjpBshG/Screenshot-at-2022-01-25-16-00-24.png)](https://github.com/hecdelatorre/BatallaNaval)
+
 * [vue-pokemon-game](https://github.com/hecdelatorre/vue-pokemon-game)
 
 [![2023-05-02-230137-413x400-scrot.png](https://i.postimg.cc/Rq5CVFn8/2023-05-02-230137-413x400-scrot.png)](https://github.com/hecdelatorre/vue-pokemon-game)
