@@ -36,3 +36,13 @@ Mi interés en desarrollarme en las áreas de backend como en frontend y en mane
     "Photoshop": "80%",
 }
 ```
+
+## Mejores proyectos
+
+* [Encrypted-Notes](https://github.com/hecdelatorre/Encrypted-Notes)
+
+[![Encrypted-Notes](https://i.postimg.cc/qv3c5C1V/2023-05-02-221347-1599x875-scrot.png)](https://github.com/hecdelatorre/Encrypted-Notes)
+
+* [python-deepl-api](https://github.com/hecdelatorre/python-deepl-api)
+
+[![2023-05-02-225326-753x522-scrot.png](https://i.postimg.cc/43KkKGbQ/2023-05-02-225326-753x522-scrot.png)](https://github.com/hecdelatorre/python-deepl-api)
