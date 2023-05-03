@@ -46,3 +46,9 @@ Mi interés en desarrollarme en las áreas de backend como en frontend y en mane
 * [python-deepl-api](https://github.com/hecdelatorre/python-deepl-api)
 
 [![2023-05-02-225326-753x522-scrot.png](https://i.postimg.cc/43KkKGbQ/2023-05-02-225326-753x522-scrot.png)](https://github.com/hecdelatorre/python-deepl-api)
+
+* [vue-pokemon-game](https://github.com/hecdelatorre/vue-pokemon-game)
+
+[![2023-05-02-230137-413x400-scrot.png](https://i.postimg.cc/Rq5CVFn8/2023-05-02-230137-413x400-scrot.png)](https://github.com/hecdelatorre/vue-pokemon-game)
+
+[![2023-05-02-230158-408x520-scrot.png](https://i.postimg.cc/wxthvGmc/2023-05-02-230158-408x520-scrot.png)](https://github.com/hecdelatorre/vue-pokemon-game)
