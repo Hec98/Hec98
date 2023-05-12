@@ -2,7 +2,7 @@
 
 ## Descripción
 
-"¡Hola! Soy Héctor De La Torre, un recién egresado de Ingeniería en Sistemas Computacionales con pasión por el desarrollo de software.
+**¡Hola! Soy Héctor De La Torre**, un recién egresado de Ingeniería en Sistemas Computacionales con pasión por el desarrollo de software.
 
 Mi interés se enfoca en el desarrollo backend, frontend y en el manejo de bases de datos. Durante mi formación académica, adquirí habilidades sólidas en el desarrollo de aplicaciones y sistemas, tanto en el lado del servidor como en el cliente.
 
